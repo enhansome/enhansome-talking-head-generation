@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Faceforensics++ [",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:43:11Z",
+            "owner": "ondyari",
+            "repo": "FaceForensics",
+            "stars": 2762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CelebV-HQ [",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-04T00:29:28Z",
+            "owner": "CelebV-HQ",
+            "repo": "CelebV-HQ",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEAD [",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-07T09:06:42Z",
+            "owner": "uniBruce",
+            "repo": "Mead",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiTalk [",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-05T17:11:54Z",
+            "owner": "kaist-ami",
+            "repo": "MultiTalk",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TalkingHead-1KH [",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-12T18:09:27Z",
+            "owner": "tcwang0509",
+            "repo": "TalkingHead-1KH",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VFHQ [",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T18:08:51Z",
+            "owner": "anjieyang",
+            "repo": "VFHQ-downloader",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image-driven"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio-driven"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nerf & 3D"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:11.103Z",
+    "original_repository": "harlanhong/awesome-talking-head-generation",
+    "original_repository_sha": "51d89607df404cbc6603ae4303bcaf941eb49138",
+    "enhanced_repository": "enhansome/enhansome-talking-head-generation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Talking Head Generation with stars"
+  }
+}
