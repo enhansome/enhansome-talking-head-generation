@@ -14,7 +14,7 @@
             "last_commit": "2022-12-08T01:43:11Z",
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2764
+            "stars": 2765
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2023-01-04T00:29:28Z",
             "owner": "CelebV-HQ",
             "repo": "CelebV-HQ",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -117,7 +117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:50:50.943Z",
+    "last_updated": "2026-08-18T21:48:50.874Z",
     "original_repository": "harlanhong/awesome-talking-head-generation",
     "original_repository_sha": "51d89607df404cbc6603ae4303bcaf941eb49138",
     "enhanced_repository": "enhansome/enhansome-talking-head-generation",
