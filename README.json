@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129401433,
             "language": "Python",
             "last_commit": "2022-12-08T01:43:11Z",
             "owner": "ondyari",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476141093,
             "language": "Python",
             "last_commit": "2023-01-04T00:29:28Z",
             "owner": "CelebV-HQ",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333696648,
             "language": "Python",
             "last_commit": "2024-07-07T09:06:42Z",
             "owner": "uniBruce",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815566945,
             "language": "Python",
             "last_commit": "2024-11-05T17:11:54Z",
             "owner": "kaist-ami",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665667947,
             "language": "Python",
             "last_commit": "2023-07-12T18:09:27Z",
             "owner": "tcwang0509",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784542541,
             "language": "Python",
             "last_commit": "2024-04-15T18:08:51Z",
             "owner": "anjieyang",
@@ -89,36 +95,12 @@
         }
       ],
       "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Survey"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image-driven"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Audio-driven"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Nerf & 3D"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:48:50.874Z",
+    "last_updated": "2026-08-19T12:54:04.358Z",
     "original_repository": "harlanhong/awesome-talking-head-generation",
+    "original_repository_id": 451002491,
     "original_repository_sha": "51d89607df404cbc6603ae4303bcaf941eb49138",
     "enhanced_repository": "enhansome/enhansome-talking-head-generation",
     "enhanced_repository_description": null,
