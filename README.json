@@ -111,7 +111,7 @@
             "last_commit": "2026-05-15T07:54:56Z",
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3548
+            "stars": 3549
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2025-08-06T15:17:03Z",
             "owner": "Omni-Avatar",
             "repo": "OmniAvatar",
-            "stars": 1859
+            "stars": 1860
           }
         },
         {
@@ -549,7 +549,7 @@
             "archived": false,
             "id": 1109843084,
             "language": "Python",
-            "last_commit": "2026-07-26T15:43:05Z",
+            "last_commit": "2026-08-24T15:10:10Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
             "stars": 2384
@@ -582,7 +582,7 @@
             "last_commit": "2024-08-21T09:40:06Z",
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7597
+            "stars": 7596
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2025-09-26T05:44:17Z",
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6449
+            "stars": 6450
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2025-06-06T09:32:00Z",
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9505
+            "stars": 9506
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-02-23T05:28:31Z",
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4648
+            "stars": 4650
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14032
+            "stars": 14034
           }
         },
         {
@@ -1032,7 +1032,7 @@
             "last_commit": "2025-06-22T02:41:21Z",
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13177
+            "stars": 13178
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2024-09-05T07:54:08Z",
             "owner": "X-niper",
             "repo": "UniTalker",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "last_commit": "2023-09-20T14:07:15Z",
             "owner": "Doubiiu",
             "repo": "CodeTalker",
-            "stars": 615
+            "stars": 616
           }
         },
         {
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:13.353Z",
+    "last_updated": "2026-08-24T21:54:14.700Z",
     "original_repository": "harlanhong/awesome-talking-head-generation",
     "original_repository_id": 451002491,
     "original_repository_sha": "51d89607df404cbc6603ae4303bcaf941eb49138",
