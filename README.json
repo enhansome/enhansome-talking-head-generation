@@ -101,8 +101,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "PersonaLive! Expressive Portrait Image Animation for Live Streaming CVPR 2026 Code",
+          "title": "GVCLab/PersonaLive",
+          "description": "PersonaLive! Expressive Portrait Image Animation for Live Streaming CVPR 2026",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,8 +116,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation CVPR 2025 Code · Project",
+          "title": "kkakkkka/HunyuanPortrait",
+          "description": "Project HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation CVPR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention SIGGRAPH 2024 Code",
+          "title": "bytedance/X-Portrait",
+          "description": "X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention SIGGRAPH 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,8 +146,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation SIGGRAPH Asia 2024 Code",
+          "title": "mayuelala/FollowYourEmoji",
+          "description": "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation SIGGRAPH Asia 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,8 +161,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control arXiv 2024 Code · Project",
+          "title": "KlingAIResearch/LivePortrait",
+          "description": "Project LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,13 +171,13 @@
             "last_commit": "2026-06-01T17:25:09Z",
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 18965
+            "stars": 18964
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars CVPR 2024 Code · Project",
+          "title": "neeek2303/EMOPortraits",
+          "description": "Project EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars CVPR 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,8 +191,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Audio-Visual Face Reenactment WACV 2023 Code · Project",
+          "title": "madhav1ag/AVFR-Gan",
+          "description": "Project Audio-Visual Face Reenactment WACV 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,8 +206,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis WACV 2023 Code",
+          "title": "nihaomiao/WACV23_TSNet",
+          "description": "Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis WACV 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation ICCV 2023 Project · Code",
+          "title": "harlanhong/ICCV2023-MCNET",
+          "description": "Code Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation ICCV 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Depth-Aware Generative Adversarial Network for Talking Head Video Generation CVPR 2022 Code · Project",
+          "title": "harlanhong/CVPR2022-DaGAN",
+          "description": "Project Depth-Aware Generative Adversarial Network for Talking Head Video Generation CVPR 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Thin-Plate Spline Motion Model for Image Animation CVPR 2022 Code",
+          "title": "yoyo-nb/Thin-Plate-Spline-Motion-Model",
+          "description": "Thin-Plate Spline Motion Model for Image Animation CVPR 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN ECCV 2022 Code · Project",
+          "title": "OpenTalker/StyleHEAT",
+          "description": "Project StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN ECCV 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Structure-Aware Motion Transfer with Deformable Anchor Model CVPR 2022 Code",
+          "title": "JialeTao/DAM",
+          "description": "Structure-Aware Motion Transfer with Deformable Anchor Model CVPR 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment FG, 2023 Code",
+          "title": "StelaBou/StyleMask",
+          "description": "StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment FG, 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Finding Directions in GAN’s Latent Space for Neural Face Reenactment BMVC 2022 Project · Code",
+          "title": "StelaBou/stylegan_directions_face_reenactment",
+          "description": "Code Finding Directions in GAN’s Latent Space for Neural Face Reenactment BMVC 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Latent Image Animator: Learning to Animate Images via Latent Space Navigation ICLR 2022 Project · Code",
+          "title": "wyhsirius/LIA",
+          "description": "Code Latent Image Animator: Learning to Animate Images via Latent Space Navigation ICLR 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "SAFA: Structure Aware Face Animation 3DV 2021 Code",
+          "title": "Qiulin-W/SAFA",
+          "description": "SAFA: Structure Aware Face Animation 3DV 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,8 +356,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering ICCV 2021 Code",
+          "title": "RenYurui/PIRender",
+          "description": "PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering ICCV 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Motion Representations for Articulated Animation CVPR 2021 Code",
+          "title": "snap-research/articulated-animation",
+          "description": "Motion Representations for Articulated Animation CVPR 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "First order motion model for image animation NeurIPS 2019 Code",
+          "title": "AliaksandrSiarohin/first-order-model",
+          "description": "First order motion model for image animation NeurIPS 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models ICCV 2019 Code",
+          "title": "vincent-thevenin/Realistic-Neural-Talking-Head-Models",
+          "description": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models ICCV 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,8 +416,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Animating Arbitrary Objects via Deep Motion Transfer CVPR 2019 Oral Code · Project",
+          "title": "AliaksandrSiarohin/monkey-net",
+          "description": "Project Animating Arbitrary Objects via Deep Motion Transfer CVPR 2019 Oral",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Few-shot Video-to-Video Synthesis NeurIPS 2019 Code · Project",
+          "title": "NVlabs/few-shot-vid2vid",
+          "description": "Project Few-shot Video-to-Video Synthesis NeurIPS 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -446,8 +446,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ReenactGAN: Learning to Reenact Faces via Boundary Transfer ECCV 2018 Code",
+          "title": "wywu/ReenactGAN",
+          "description": "ReenactGAN: Learning to Reenact Faces via Boundary Transfer ECCV 2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "X2Face: A network for controlling face generation by using images, audio, and pose codes ECCV 2018 Code · Project",
+          "title": "oawiles/X2Face",
+          "description": "Project X2Face: A network for controlling face generation by using images, audio, and pose codes ECCV 2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -482,8 +482,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "SEDTalker: Emotion-Aware 3D Facial Animation Using Frame-Level Speech Emotion Diarization arXiv 2026 Code",
+          "title": "FarzanehJafari1987/SEDTalker",
+          "description": "SEDTalker: Emotion-Aware 3D Facial Animation Using Frame-Level Speech Emotion Diarization arXiv 2026",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -497,8 +497,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation arXiv 2025 Code · Project",
+          "title": "Omni-Avatar/OmniAvatar",
+          "description": "Project OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation arXiv 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,8 +512,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation ICLR 2025 Code",
+          "title": "fudan-generative-vision/hallo2",
+          "description": "Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation ICLR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -527,8 +527,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation ICLR 2025 Project · Code",
+          "title": "Hanbo-Cheng/DAWN-pytorch",
+          "description": "Code DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation ICLR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -542,8 +542,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length arXiv 2025 Code",
+          "title": "Alibaba-Quark/LiveAvatar",
+          "description": "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length arXiv 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,13 +552,13 @@
             "last_commit": "2026-08-24T15:10:10Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2384
+            "stars": 2386
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis ICLR 2024 Project · Code",
+          "title": "yerfor/Real3DPortrait",
+          "description": "Code Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis ICLR 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,8 +572,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions arXiv 2024 Project · Code",
+          "title": "HumanAIGC/EMO",
+          "description": "Code Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,13 +582,13 @@
             "last_commit": "2024-08-21T09:40:06Z",
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7596
+            "stars": 7595
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "[MuseTalk] Real-Time High Quality Lip Synchorization with Latent Space Inpainting, [Code]. Code",
+          "title": "[MuseTalk] Real-Time High Quality Lip Synchorization with Latent Space Inpainting, [Code",
+          "description": "].  Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -597,13 +597,13 @@
             "last_commit": "2025-09-26T05:44:17Z",
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6450
+            "stars": 6452
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "THQA: A Perceptual Quality Assessment Database for Talking Heads arXiv 2024 Code",
+          "title": "zyj-2000/THQA",
+          "description": "THQA: A Perceptual Quality Assessment Database for Talking Heads arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -617,8 +617,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior arXiv 2024 Code · Project",
+          "title": "cvlab-kaist/Talk3D",
+          "description": "Project Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -632,8 +632,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis arXiv 2024 Code · Project",
+          "title": "tanshuai0219/EDTalk",
+          "description": "Project EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -647,8 +647,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations arXiv 2024 Code",
+          "title": "Zejun-Yang/AniPortrait",
+          "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,8 +662,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio arXiv 2024 Code",
+          "title": "modelscope/facechain",
+          "description": "FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -672,13 +672,13 @@
             "last_commit": "2025-06-06T09:32:00Z",
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9506
+            "stars": 9507
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation arXiv 2024 Code",
+          "title": "fudan-generative-vision/hallo",
+          "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,13 +687,13 @@
             "last_commit": "2024-09-14T13:23:02Z",
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8663
+            "stars": 8664
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions arXiv 2024 Code · Project",
+          "title": "antgroup/echomimic",
+          "description": "Project EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -707,8 +707,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation arXiv 2024 Code · Project",
+          "title": "antgroup/echomimic_v2",
+          "description": "Project EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -717,13 +717,13 @@
             "last_commit": "2026-02-23T05:28:31Z",
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4650
+            "stars": 4651
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Latent Diffusion Transformer for Talking Video Synthesis arXiv 2024 Code · Project",
+          "title": "zhang-haojie/LetsTalk",
+          "description": "Project Latent Diffusion Transformer for Talking Video Synthesis arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -737,8 +737,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Memory-Guided Diffusion for Expressive Talking Video Generation arXiv 2024 Project · Code",
+          "title": "memoavatar/memo",
+          "description": "Code Memory-Guided Diffusion for Expressive Talking Video Generation arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -752,8 +752,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync arXiv 2024 Code",
+          "title": "bytedance/LatentSync",
+          "description": "LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -767,8 +767,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics arXiv 2024 Code",
+          "title": "jdh-algo/JoyVASA",
+          "description": "JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -782,8 +782,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level Conditions in Diffusion Models arXiv 2024 Code",
+          "title": "HelloVision/HelloMeme",
+          "description": "HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level Conditions in Diffusion Models arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -797,8 +797,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis Arxiv 2023 Project · Code",
+          "title": "sstzal/DiffTalk",
+          "description": "Code DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis Arxiv 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -812,8 +812,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Emotionally Enhanced Talking Face Generation Arxiv 2023 Code",
+          "title": "sahilg06/EmoGen",
+          "description": "Emotionally Enhanced Talking Face Generation Arxiv 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -827,8 +827,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert CVPR 2023 Code",
+          "title": "Sxjdwang/TalkLip",
+          "description": "Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -842,8 +842,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator CVPR 2023 Project · Code",
+          "title": "guanjz20/StyleSync",
+          "description": "Code StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -857,8 +857,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation arXiv 2023 Project · Code",
+          "title": "yerfor/GeneFacePlusPlus",
+          "description": "Code GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation arXiv 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -872,8 +872,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior Arxiv 2023 Project · Code",
+          "title": "HumanAIGC/VividTalk",
+          "description": "Code VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior Arxiv 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -887,8 +887,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors CVPR 2023 Code",
+          "title": "Weizhi-Zhong/IP_LAP",
+          "description": "IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -902,8 +902,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation CVPR 2023 Code",
+          "title": "semchan/HyperLips",
+          "description": "HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -917,8 +917,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation ICCV 2023 Project · Code",
+          "title": "yuangan/EAT_code",
+          "description": "Code Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation ICCV 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -932,8 +932,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Talking Head Animation CVPR 2023 Project · Code",
+          "title": "OpenTalker/SadTalker",
+          "description": "Code SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Talking Head Animation CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -942,13 +942,13 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14034
+            "stars": 14035
           }
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video AAAI 2023 Code",
+          "title": "MRzzm/DINet",
+          "description": "DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video AAAI 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -962,8 +962,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions ICASSP 2023 Code",
+          "title": "deepbrainai-research/discohead",
+          "description": "DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions ICASSP 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -977,8 +977,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation CVPR 2021 Code · Project",
+          "title": "Hangz-nju-cuhk/Talking-Face_PC-AVS",
+          "description": "Project Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation CVPR 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -992,8 +992,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Audio-Driven Emotional Video Portraits CVPR 2021 Code",
+          "title": "jixinya/EVP",
+          "description": "Audio-Driven Emotional Video Portraits CVPR 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1007,8 +1007,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation ACM TOG 2021 Code",
+          "title": "YuanxunLu/LiveSpeechPortraits",
+          "description": "Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation ACM TOG 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1022,8 +1022,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild ACM Multimedia 2020 Code · Project",
+          "title": "Rudrabha/Wav2Lip",
+          "description": "Project A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild ACM Multimedia 2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1037,8 +1037,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Talking-head Generation with Rhythmic Head Motion ECCV 2020 Code",
+          "title": "lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion",
+          "description": "Talking-head Generation with Rhythmic Head Motion ECCV 2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1052,8 +1052,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "MakeItTalk: Speaker-Aware Talking-Head Animation SIGGRAPH Asia 2020 Code · Project",
+          "title": "yzhou359/MakeItTalk",
+          "description": "Project MakeItTalk: Speaker-Aware Talking-Head Animation SIGGRAPH Asia 2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,8 +1067,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Neural Voice Puppetry: Audio-driven Facial Reenactment ECCV 2020 Code · Project",
+          "title": "keetsky/NeuralVoicePuppetry",
+          "description": "Project Neural Voice Puppetry: Audio-driven Facial Reenactment ECCV 2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1082,8 +1082,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation ECCV 2020 Code · Project",
+          "title": "uniBruce/Mead",
+          "description": "Project MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation ECCV 2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1097,8 +1097,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Talking Face Generation by Adversarially Disentangled Audio-Visual Representation AAAI 2019 Code",
+          "title": "Hangz-nju-cuhk/Talking-Face-Generation-DAVS",
+          "description": "Talking Face Generation by Adversarially Disentangled Audio-Visual Representation AAAI 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,8 +1112,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Hierarchical Cross-modal Talking Face Generation with Dynamic Pixel-wise Loss CVPR 2019 Code",
+          "title": "lelechen63/ATVGnet",
+          "description": "Hierarchical Cross-modal Talking Face Generation with Dynamic Pixel-wise Loss CVPR 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1127,8 +1127,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "Lip Movements Generation at a Glance ECCV 2018 Code",
+          "title": "lelechen63/3d_gan",
+          "description": "Lip Movements Generation at a Glance ECCV 2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1142,8 +1142,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "You Said That?: Synthesising Talking Faces From Audio IJCV 2019 Code",
+          "title": "joonson/yousaidthat",
+          "description": "You Said That?: Synthesising Talking Faces From Audio IJCV 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1163,8 +1163,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "GaussianSpeech: Audio-Driven Personalized 3D Gaussian Avatars ICCV 2025 Code",
+          "title": "shivangi-aneja/GaussianSpeech",
+          "description": "GaussianSpeech: Audio-Driven Personalized 3D Gaussian Avatars ICCV 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1178,8 +1178,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization ICCV 2025 Code",
+          "title": "kimhyungkyu-1208/MemoryTalker",
+          "description": "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization ICCV 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,8 +1193,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "InsTaG: Learning Personalized 3D Talking Head from Few-Second Video CVPR 2025 Code",
+          "title": "Fictionarry/InsTaG",
+          "description": "InsTaG: Learning Personalized 3D Talking Head from Few-Second Video CVPR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1208,8 +1208,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations CVPR 2025 Code",
+          "title": "ZiqiaoPeng/DualTalk",
+          "description": "DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations CVPR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1223,8 +1223,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer WACV 2024 Code",
+          "title": "HowieMa/CVTHead",
+          "description": "CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer WACV 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1238,8 +1238,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting ECCV 2024 Code",
+          "title": "Fictionarry/TalkingGaussian",
+          "description": "TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting ECCV 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1253,8 +1253,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting ACM MM 2024 Code",
+          "title": "cvlab-kaist/GaussianTalker",
+          "description": "GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting ACM MM 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1268,8 +1268,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Generalizable and Animatable Gaussian Head Avatar NeurIPS 2024 Code",
+          "title": "xg-chu/GAGAvatar",
+          "description": "Generalizable and Animatable Gaussian Head Avatar NeurIPS 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1283,8 +1283,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis CVPR 2024 Code",
+          "title": "zhangzc21/DynTet",
+          "description": "Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis CVPR 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1298,8 +1298,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "GPAvatar: Generalizable and Precise Head Avatar from Image(s) ICLR 2024 Code",
+          "title": "xg-chu/GPAvatar",
+          "description": "GPAvatar: Generalizable and Precise Head Avatar from Image(s) ICLR 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1313,8 +1313,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model arXiv 2024 Code",
+          "title": "X-niper/UniTalker",
+          "description": "UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model arXiv 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1328,8 +1328,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis ICCV 2023 Code",
+          "title": "Fictionarry/ER-NeRF",
+          "description": "Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis ICCV 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1343,8 +1343,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation ICCV 2023 Code",
+          "title": "ZiqiaoPeng/EmoTalk",
+          "description": "EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation ICCV 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1358,8 +1358,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior CVPR 2023 Code",
+          "title": "Doubiiu/CodeTalker",
+          "description": "CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1373,8 +1373,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "GANHead: Towards Generative Animatable Neural Head Avatars CVPR 2023 Code",
+          "title": "wsj-sjtu/GANHead",
+          "description": "GANHead: Towards Generative Animatable Neural Head Avatars CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1388,8 +1388,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering CVPR 2023 Code",
+          "title": "theEricMa/OTAvatar",
+          "description": "OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering CVPR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1403,8 +1403,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis ICLR 2023 Code",
+          "title": "yerfor/GeneFace",
+          "description": "GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis ICLR 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1418,8 +1418,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis CVPR 2024 Code",
+          "title": "ZiqiaoPeng/SyncTalk",
+          "description": "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis CVPR 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1433,8 +1433,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "HeadNeRF: A Real-time NeRF-based Parametric Head Model CVPR 2022 Code · Project",
+          "title": "CrisHY1995/headnerf",
+          "description": "Project HeadNeRF: A Real-time NeRF-based Parametric Head Model CVPR 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1448,8 +1448,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "FNeVR: Neural Volume Rendering for Face Animation Arxiv 2022 Code",
+          "title": "zengbohan0217/FNeVR",
+          "description": "FNeVR: Neural Volume Rendering for Face Animation Arxiv 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1463,8 +1463,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation Arxiv 2022 Code · Project",
+          "title": "junshutang/3DFaceShop",
+          "description": "Project 3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation Arxiv 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1478,8 +1478,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis ECCV 2022 Code",
+          "title": "sstzal/DFRF",
+          "description": "Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis ECCV 2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1493,8 +1493,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction CVPR 2021 Oral Code · Project",
+          "title": "gafniguy/4D-Facial-Avatars",
+          "description": "Project NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction CVPR 2021 Oral",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1508,8 +1508,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis ICCV 2021 Code · Code",
+          "title": "gafniguy/4D-Facial-Avatars",
+          "description": "Code AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis ICCV 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1523,8 +1523,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning CVPR 2020 Oral Code",
+          "title": "microsoft/DiscoFaceGAN",
+          "description": "Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning CVPR 2020 Oral",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:54:14.700Z",
+    "last_updated": "2026-08-25T05:59:30.044Z",
     "original_repository": "harlanhong/awesome-talking-head-generation",
     "original_repository_id": 451002491,
     "original_repository_sha": "51d89607df404cbc6603ae4303bcaf941eb49138",
