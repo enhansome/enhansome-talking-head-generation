@@ -111,7 +111,7 @@
             "last_commit": "2026-05-15T07:54:56Z",
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3551
+            "stars": 3552
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-01T17:25:09Z",
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 18968
+            "stars": 18969
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2024-11-14T03:16:41Z",
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15014
+            "stars": 15015
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2024-10-18T09:11:18Z",
             "owner": "yerfor",
             "repo": "Real3DPortrait",
-            "stars": 1092
+            "stars": 1091
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2025-09-26T05:44:17Z",
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6453
+            "stars": 6459
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2025-06-06T09:32:00Z",
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9507
+            "stars": 9508
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2024-09-14T13:23:02Z",
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8665
+            "stars": 8664
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-04-07T04:02:07Z",
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4288
+            "stars": 4292
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-02-23T05:28:31Z",
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4651
+            "stars": 4652
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2025-06-20T07:36:58Z",
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6023
+            "stars": 6026
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14035
+            "stars": 14040
           }
         },
         {
@@ -1032,7 +1032,7 @@
             "last_commit": "2025-06-22T02:41:21Z",
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13180
+            "stars": 13182
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2024-11-01T17:19:52Z",
             "owner": "xg-chu",
             "repo": "GPAvatar",
-            "stars": 347
+            "stars": 348
           }
         },
         {
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:53:44.977Z",
+    "last_updated": "2026-08-27T00:57:54.850Z",
     "original_repository": "harlanhong/awesome-talking-head-generation",
     "original_repository_id": 451002491,
     "original_repository_sha": "51d89607df404cbc6603ae4303bcaf941eb49138",
