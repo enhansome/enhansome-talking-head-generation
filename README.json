@@ -155,7 +155,7 @@
             "open_issues": 34,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3574,
+            "stars": 3583,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 18982,
+            "stars": 18984,
             "topics": [
               "face-animation",
               "image-animation",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15016,
+            "stars": 15015,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7594,
+            "stars": 7593,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 171,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6472,
+            "stars": 6474,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -994,7 +994,7 @@
             "open_issues": 12,
             "owner": "tanshuai0219",
             "repo": "EDTalk",
-            "stars": 469,
+            "stars": 468,
             "topics": [
               "audio-visual-learning",
               "face-animation",
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9509,
+            "stars": 9508,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1116,7 +1116,7 @@
             "open_issues": 76,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4652,
+            "stars": 4651,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6037,
+            "stars": 6038,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1215,7 +1215,7 @@
             "open_issues": 42,
             "owner": "jdh-algo",
             "repo": "JoyVASA",
-            "stars": 878,
+            "stars": 877,
             "topics": [
               "audio-driven-talking-face",
               "generative-ai",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:43.389Z",
+    "last_updated": "2026-08-29T23:30:45.687Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
