@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2769,
+            "stars": 2770,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "CelebV-HQ",
             "repo": "CelebV-HQ",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "datasets",
               "gans",
@@ -155,7 +155,7 @@
             "open_issues": 34,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3621,
+            "stars": 3627,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19006,
+            "stars": 19004,
             "topics": [
               "face-animation",
               "image-animation",
@@ -402,7 +402,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3605,
+            "stars": 3606,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15013,
+            "stars": 15014,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3735,
+            "stars": 3736,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 43,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2401,
+            "stars": 2403,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 172,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6495,
+            "stars": 6500,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1060,10 +1060,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-09-14T13:23:02Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8663,
+            "stars": 8664,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1116,7 +1116,7 @@
             "open_issues": 76,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4652,
+            "stars": 4653,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1164,10 +1164,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-06T15:27:37Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "memoavatar",
             "repo": "memo",
-            "stars": 1071,
+            "stars": 1072,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6047,
+            "stars": 6049,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14062,
+            "stars": 14066,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1505,7 +1505,7 @@
             "open_issues": 92,
             "owner": "MRzzm",
             "repo": "DINet",
-            "stars": 1127,
+            "stars": 1128,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1607,10 +1607,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-06-22T02:41:21Z",
-            "open_issues": 369,
+            "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13189,
+            "stars": 13193,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1919,7 +1919,7 @@
             "open_issues": 48,
             "owner": "Fictionarry",
             "repo": "TalkingGaussian",
-            "stars": 387,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 57,
             "owner": "cvlab-kaist",
             "repo": "GaussianTalker",
-            "stars": 414,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2021,7 +2021,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-09-05T07:54:08Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "X-niper",
             "repo": "UniTalker",
             "stars": 244,
@@ -2161,7 +2161,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2659,
+            "stars": 2660,
             "topics": [
               "nerf",
               "pytorch",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:29:46.604Z",
+    "last_updated": "2026-09-03T23:26:03.038Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
