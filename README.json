@@ -155,7 +155,7 @@
             "open_issues": 34,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3627,
+            "stars": 3647,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19004,
+            "stars": 19006,
             "topics": [
               "face-animation",
               "image-animation",
@@ -857,7 +857,7 @@
             "open_issues": 43,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2403,
+            "stars": 2405,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7590,
+            "stars": 7589,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 172,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6500,
+            "stars": 6506,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1021,7 +1021,7 @@
             "open_issues": 84,
             "owner": "Zejun-Yang",
             "repo": "AniPortrait",
-            "stars": 5021,
+            "stars": 5020,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9508,
+            "stars": 9507,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8664,
+            "stars": 8666,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4298,
+            "stars": 4296,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -1116,7 +1116,7 @@
             "open_issues": 76,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4653,
+            "stars": 4652,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1167,7 +1167,7 @@
             "open_issues": 20,
             "owner": "memoavatar",
             "repo": "memo",
-            "stars": 1072,
+            "stars": 1071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6049,
+            "stars": 6050,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14066,
+            "stars": 14067,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13193,
+            "stars": 13192,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2161,7 +2161,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2660,
+            "stars": 2659,
             "topics": [
               "nerf",
               "pytorch",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:26:03.038Z",
+    "last_updated": "2026-09-04T23:10:39.232Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
