@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2770,
+            "stars": 2771,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 34,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3647,
+            "stars": 3655,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19006,
+            "stars": 19011,
             "topics": [
               "face-animation",
               "image-animation",
@@ -668,7 +668,7 @@
             "open_issues": 21,
             "owner": "AliaksandrSiarohin",
             "repo": "monkey-net",
-            "stars": 475,
+            "stars": 474,
             "topics": [
               "animation",
               "deep-learning",
@@ -854,10 +854,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:10:10Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2405,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 172,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6506,
+            "stars": 6512,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1063,7 +1063,7 @@
             "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8666,
+            "stars": 8667,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14067,
+            "stars": 14070,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13192,
+            "stars": 13193,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 57,
             "owner": "cvlab-kaist",
             "repo": "GaussianTalker",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2342,7 +2342,7 @@
             "open_issues": 15,
             "owner": "microsoft",
             "repo": "DiscoFaceGAN",
-            "stars": 639,
+            "stars": 640,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:10:39.232Z",
+    "last_updated": "2026-09-05T23:08:08.379Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
