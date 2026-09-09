@@ -152,10 +152,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:01:07Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3685,
+            "stars": 3690,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19026,
+            "stars": 19029,
             "topics": [
               "face-animation",
               "image-animation",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15015,
+            "stars": 15014,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3737,
+            "stars": 3738,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 44,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2412,
+            "stars": 2414,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7587,
+            "stars": 7588,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 173,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6526,
+            "stars": 6531,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1021,7 +1021,7 @@
             "open_issues": 84,
             "owner": "Zejun-Yang",
             "repo": "AniPortrait",
-            "stars": 5018,
+            "stars": 5017,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9508,
+            "stars": 9509,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6056,
+            "stars": 6059,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14072,
+            "stars": 14073,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13197,
+            "stars": 13198,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 20,
             "owner": "X-niper",
             "repo": "UniTalker",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2129,7 +2129,7 @@
             "open_issues": 9,
             "owner": "theEricMa",
             "repo": "OTAvatar",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "cvpr2023",
               "deep-learning",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:33:11.210Z",
+    "last_updated": "2026-09-09T23:26:09.527Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
