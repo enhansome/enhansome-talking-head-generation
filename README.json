@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2772,
+            "stars": 2773,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -86,7 +86,7 @@
             "open_issues": 10,
             "owner": "kaist-ami",
             "repo": "MultiTalk",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3695,
+            "stars": 3705,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19032,
+            "stars": 19035,
             "topics": [
               "face-animation",
               "image-animation",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15014,
+            "stars": 15013,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3738,
+            "stars": 3739,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 44,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2416,
+            "stars": 2418,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 173,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6540,
+            "stars": 6545,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6061,
+            "stars": 6063,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14076,
+            "stars": 14077,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13198,
+            "stars": 13200,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 57,
             "owner": "cvlab-kaist",
             "repo": "GaussianTalker",
-            "stars": 416,
+            "stars": 417,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1961,7 +1961,7 @@
             "open_issues": 10,
             "owner": "xg-chu",
             "repo": "GAGAvatar",
-            "stars": 593,
+            "stars": 594,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2300,7 +2300,7 @@
             "open_issues": 23,
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
-            "stars": 698,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2321,7 +2321,7 @@
             "open_issues": 23,
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
-            "stars": 698,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:20:29.791Z",
+    "last_updated": "2026-09-11T23:29:12.571Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
