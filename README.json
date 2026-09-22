@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3797,
+            "stars": 3812,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19084,
+            "stars": 19099,
             "topics": [
               "face-animation",
               "image-animation",
@@ -790,7 +790,7 @@
             "open_issues": 48,
             "owner": "Omni-Avatar",
             "repo": "OmniAvatar",
-            "stars": 1861,
+            "stars": 1862,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2438,
+            "stars": 2437,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 173,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6604,
+            "stars": 6613,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -985,7 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "[ECCV 2024 Oral] EDTalk - Official PyTorch Implementation",
+            "description": "[ECCV 2024 Oral/TPAMI] EDTalk/EDTalk++ - Official PyTorch Implementation",
             "homepage": null,
             "id": 780690244,
             "language": "Python",
@@ -1021,7 +1021,7 @@
             "open_issues": 84,
             "owner": "Zejun-Yang",
             "repo": "AniPortrait",
-            "stars": 5016,
+            "stars": 5017,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4300,
+            "stars": 4301,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6089,
+            "stars": 6092,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1215,7 +1215,7 @@
             "open_issues": 42,
             "owner": "jdh-algo",
             "repo": "JoyVASA",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "audio-driven-talking-face",
               "generative-ai",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13217,
+            "stars": 13219,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1652,7 +1652,7 @@
             "open_issues": 58,
             "owner": "yzhou359",
             "repo": "MakeItTalk",
-            "stars": 1031,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1961,7 +1961,7 @@
             "open_issues": 10,
             "owner": "xg-chu",
             "repo": "GAGAvatar",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2087,7 +2087,7 @@
             "open_issues": 38,
             "owner": "Doubiiu",
             "repo": "CodeTalker",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:13:56.476Z",
+    "last_updated": "2026-09-22T23:43:01.784Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -2364,7 +2364,7 @@
       "open_issues": 4,
       "owner": "harlanhong",
       "repo": "awesome-talking-head-generation",
-      "stars": 1932,
+      "stars": 1933,
       "topics": [
         "face-reenactment",
         "image-animation",
