@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2773,
+            "stars": 2774,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "CelebV-HQ",
             "repo": "CelebV-HQ",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "datasets",
               "gans",
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3791,
+            "stars": 3797,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19076,
+            "stars": 19084,
             "topics": [
               "face-animation",
               "image-animation",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15011,
+            "stars": 15010,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -693,7 +693,7 @@
             "open_issues": 28,
             "owner": "NVlabs",
             "repo": "few-shot-vid2vid",
-            "stars": 1796,
+            "stars": 1795,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2434,
+            "stars": 2438,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7583,
+            "stars": 7584,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 173,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6592,
+            "stars": 6604,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9510,
+            "stars": 9508,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1113,10 +1113,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-02-23T05:28:31Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4655,
+            "stars": 4657,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6087,
+            "stars": 6089,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14096,
+            "stars": 14098,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13215,
+            "stars": 13217,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1778,7 +1778,7 @@
             "open_issues": 5,
             "owner": "joonson",
             "repo": "yousaidthat",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1868,7 +1868,7 @@
             "open_issues": 10,
             "owner": "ZiqiaoPeng",
             "repo": "DualTalk",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:21:57.899Z",
+    "last_updated": "2026-09-22T00:13:56.476Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
