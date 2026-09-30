@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3850,
+            "stars": 3862,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19128,
+            "stars": 19134,
             "topics": [
               "face-animation",
               "image-animation",
@@ -372,7 +372,7 @@
             "open_issues": 34,
             "owner": "harlanhong",
             "repo": "CVPR2022-DaGAN",
-            "stars": 996,
+            "stars": 997,
             "topics": [
               "deepfake",
               "depth",
@@ -402,7 +402,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3606,
+            "stars": 3607,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15007,
+            "stars": 15008,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -647,7 +647,7 @@
             "open_issues": 35,
             "owner": "vincent-thevenin",
             "repo": "Realistic-Neural-Talking-Head-Models",
-            "stars": 828,
+            "stars": 827,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -668,7 +668,7 @@
             "open_issues": 21,
             "owner": "AliaksandrSiarohin",
             "repo": "monkey-net",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "animation",
               "deep-learning",
@@ -857,7 +857,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2445,
+            "stars": 2446,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7584,
+            "stars": 7585,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 174,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6644,
+            "stars": 6649,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -994,7 +994,7 @@
             "open_issues": 12,
             "owner": "tanshuai0219",
             "repo": "EDTalk",
-            "stars": 466,
+            "stars": 465,
             "topics": [
               "audio-visual-learning",
               "face-animation",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6100,
+            "stars": 6103,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:09:21.660Z",
+    "last_updated": "2026-09-30T00:40:38.882Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -2364,7 +2364,7 @@
       "open_issues": 4,
       "owner": "harlanhong",
       "repo": "awesome-talking-head-generation",
-      "stars": 1932,
+      "stars": 1933,
       "topics": [
         "face-reenactment",
         "image-animation",
