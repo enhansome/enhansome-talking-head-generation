@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Faceforensics++ [",
-          "description": "].",
+          "description": "ondyari/FaceForensics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "CelebV-HQ [",
-          "description": "].",
+          "description": "CelebV-HQ/CelebV-HQ",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
         {
           "node_type": "item",
           "title": "MEAD [",
-          "description": "].",
+          "description": "uniBruce/Mead",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "MultiTalk [",
-          "description": "].",
+          "description": "kaist-ami/MultiTalk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -94,7 +94,7 @@
         {
           "node_type": "item",
           "title": "TalkingHead-1KH [",
-          "description": "].",
+          "description": "tcwang0509/TalkingHead-1KH",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "VFHQ [",
-          "description": "].",
+          "description": "anjieyang/VFHQ-downloader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3905,
+            "stars": 3908,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19152,
+            "stars": 19156,
             "topics": [
               "face-animation",
               "image-animation",
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7586,
+            "stars": 7585,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 174,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6654,
+            "stars": 6653,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14110,
+            "stars": 14111,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:37:40.024Z",
+    "last_updated": "2026-10-03T05:10:37.273Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
