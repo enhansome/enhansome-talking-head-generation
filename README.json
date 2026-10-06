@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3926,
+            "stars": 3932,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19161,
+            "stars": 19165,
             "topics": [
               "face-animation",
               "image-animation",
@@ -402,7 +402,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3605,
+            "stars": 3607,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -857,7 +857,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2455,
+            "stars": 2456,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7584,
+            "stars": 7583,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 175,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6662,
+            "stars": 6664,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1164,7 +1164,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-06T15:27:37Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "memoavatar",
             "repo": "memo",
             "stars": 1073,
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14118,
+            "stars": 14119,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 371,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13228,
+            "stars": 13230,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:50:03.466Z",
+    "last_updated": "2026-10-06T10:48:27.152Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
