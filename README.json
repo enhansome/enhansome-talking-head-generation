@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2779,
+            "stars": 2780,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -65,7 +65,7 @@
             "open_issues": 18,
             "owner": "uniBruce",
             "repo": "Mead",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3921,
+            "stars": 3926,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -402,7 +402,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3607,
+            "stars": 3605,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15007,
+            "stars": 15005,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -857,7 +857,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2454,
+            "stars": 2455,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 175,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6660,
+            "stars": 6662,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9506,
+            "stars": 9507,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8665,
+            "stars": 8664,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1116,7 +1116,7 @@
             "open_issues": 77,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4657,
+            "stars": 4658,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6106,
+            "stars": 6108,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14117,
+            "stars": 14118,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 371,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13229,
+            "stars": 13228,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1694,7 +1694,7 @@
             "open_issues": 18,
             "owner": "uniBruce",
             "repo": "Mead",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 57,
             "owner": "cvlab-kaist",
             "repo": "GaussianTalker",
-            "stars": 416,
+            "stars": 417,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 20,
             "owner": "X-niper",
             "repo": "UniTalker",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T00:04:40.543Z",
+    "last_updated": "2026-10-06T01:50:03.466Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
