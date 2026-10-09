@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3952,
+            "stars": 3953,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19172,
+            "stars": 19178,
             "topics": [
               "face-animation",
               "image-animation",
@@ -272,7 +272,7 @@
             "open_issues": 32,
             "owner": "neeek2303",
             "repo": "EMOPortraits",
-            "stars": 400,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -621,7 +621,7 @@
             "open_issues": 318,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 15004,
+            "stars": 15001,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3741,
+            "stars": 3742,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -854,10 +854,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:10:10Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2459,
+            "stars": 2460,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 175,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6676,
+            "stars": 6685,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -994,7 +994,7 @@
             "open_issues": 12,
             "owner": "tanshuai0219",
             "repo": "EDTalk",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "audio-visual-learning",
               "face-animation",
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4311,
+            "stars": 4312,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -1167,7 +1167,7 @@
             "open_issues": 21,
             "owner": "memoavatar",
             "repo": "memo",
-            "stars": 1072,
+            "stars": 1071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6114,
+            "stars": 6119,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1919,7 +1919,7 @@
             "open_issues": 48,
             "owner": "Fictionarry",
             "repo": "TalkingGaussian",
-            "stars": 386,
+            "stars": 387,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:11:21.839Z",
+    "last_updated": "2026-10-09T01:19:53.866Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -2364,7 +2364,7 @@
       "open_issues": 4,
       "owner": "harlanhong",
       "repo": "awesome-talking-head-generation",
-      "stars": 1935,
+      "stars": 1936,
       "topics": [
         "face-reenactment",
         "image-animation",
