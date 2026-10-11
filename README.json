@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2022-12-08T01:43:11Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2781,
+            "stars": 2782,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3955,
+            "stars": 3959,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19193,
+            "stars": 19199,
             "topics": [
               "face-animation",
               "image-animation",
@@ -402,7 +402,7 @@
             "open_issues": 79,
             "owner": "yoyo-nb",
             "repo": "Thin-Plate-Spline-Motion-Model",
-            "stars": 3608,
+            "stars": 3607,
             "topics": [
               "deep-learning",
               "deepfake",
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3742,
+            "stars": 3743,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 46,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2461,
+            "stars": 2462,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -878,7 +878,7 @@
             "open_issues": 37,
             "owner": "yerfor",
             "repo": "Real3DPortrait",
-            "stars": 1088,
+            "stars": 1087,
             "topics": [
               "nerf",
               "one-shot",
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7581,
+            "stars": 7580,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 175,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6692,
+            "stars": 6698,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1021,7 +1021,7 @@
             "open_issues": 84,
             "owner": "Zejun-Yang",
             "repo": "AniPortrait",
-            "stars": 5015,
+            "stars": 5014,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8664,
+            "stars": 8663,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4313,
+            "stars": 4314,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -1116,7 +1116,7 @@
             "open_issues": 77,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4658,
+            "stars": 4659,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6124,
+            "stars": 6127,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1404,7 +1404,7 @@
             "open_issues": 43,
             "owner": "Weizhi-Zhong",
             "repo": "IP_LAP",
-            "stars": 734,
+            "stars": 733,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14123,
+            "stars": 14122,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2066,7 +2066,7 @@
             "open_issues": 9,
             "owner": "ZiqiaoPeng",
             "repo": "EmoTalk",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2161,7 +2161,7 @@
             "open_issues": 102,
             "owner": "yerfor",
             "repo": "GeneFace",
-            "stars": 2656,
+            "stars": 2654,
             "topics": [
               "nerf",
               "pytorch",
@@ -2186,7 +2186,7 @@
             "open_issues": 123,
             "owner": "ZiqiaoPeng",
             "repo": "SyncTalk",
-            "stars": 1630,
+            "stars": 1629,
             "topics": [
               "audio-driven-talking-face",
               "cvpr",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:07:05.397Z",
+    "last_updated": "2026-10-11T00:20:44.148Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
