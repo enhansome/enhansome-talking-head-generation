@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2022-12-08T01:43:11Z",
-            "open_issues": 97,
+            "open_issues": 96,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2782,
+            "stars": 2786,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 3959,
+            "stars": 3970,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19199,
+            "stars": 19207,
             "topics": [
               "face-animation",
               "image-animation",
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3743,
+            "stars": 3744,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 46,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2462,
+            "stars": 2464,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 175,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6698,
+            "stars": 6699,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -994,7 +994,7 @@
             "open_issues": 12,
             "owner": "tanshuai0219",
             "repo": "EDTalk",
-            "stars": 466,
+            "stars": 465,
             "topics": [
               "audio-visual-learning",
               "face-animation",
@@ -1021,7 +1021,7 @@
             "open_issues": 84,
             "owner": "Zejun-Yang",
             "repo": "AniPortrait",
-            "stars": 5014,
+            "stars": 5013,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1116,7 +1116,7 @@
             "open_issues": 77,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4659,
+            "stars": 4658,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6127,
+            "stars": 6130,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1474,7 +1474,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14122,
+            "stars": 14125,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 371,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13232,
+            "stars": 13233,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2186,7 +2186,7 @@
             "open_issues": 123,
             "owner": "ZiqiaoPeng",
             "repo": "SyncTalk",
-            "stars": 1629,
+            "stars": 1627,
             "topics": [
               "audio-driven-talking-face",
               "cvpr",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:20:44.148Z",
+    "last_updated": "2026-10-12T00:41:17.471Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -2361,10 +2361,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-27T04:48:12Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "harlanhong",
       "repo": "awesome-talking-head-generation",
-      "stars": 1938,
+      "stars": 1939,
       "topics": [
         "face-reenactment",
         "image-animation",
