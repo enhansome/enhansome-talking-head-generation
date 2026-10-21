@@ -19,7 +19,7 @@
             "open_issues": 97,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2792,
+            "stars": 2793,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -65,7 +65,7 @@
             "open_issues": 18,
             "owner": "uniBruce",
             "repo": "Mead",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 4012,
+            "stars": 4018,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 290,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19265,
+            "stars": 19274,
             "topics": [
               "face-animation",
               "image-animation",
@@ -790,7 +790,7 @@
             "open_issues": 48,
             "owner": "Omni-Avatar",
             "repo": "OmniAvatar",
-            "stars": 1861,
+            "stars": 1862,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -811,7 +811,7 @@
             "open_issues": 50,
             "owner": "fudan-generative-vision",
             "repo": "hallo2",
-            "stars": 3749,
+            "stars": 3750,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -857,7 +857,7 @@
             "open_issues": 46,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2485,
+            "stars": 2487,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7579,
+            "stars": 7578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -924,7 +924,7 @@
             "open_issues": 176,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6752,
+            "stars": 6763,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1063,7 +1063,7 @@
             "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8671,
+            "stars": 8672,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1116,7 +1116,7 @@
             "open_issues": 77,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4662,
+            "stars": 4663,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1185,10 +1185,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-06-20T07:36:58Z",
-            "open_issues": 228,
+            "open_issues": 229,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6171,
+            "stars": 6173,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1471,7 +1471,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-26T12:51:53Z",
-            "open_issues": 666,
+            "open_issues": 667,
             "owner": "OpenTalker",
             "repo": "SadTalker",
             "stars": 14145,
@@ -1610,7 +1610,7 @@
             "open_issues": 371,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13246,
+            "stars": 13254,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1694,7 +1694,7 @@
             "open_issues": 18,
             "owner": "uniBruce",
             "repo": "Mead",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1961,7 +1961,7 @@
             "open_issues": 10,
             "owner": "xg-chu",
             "repo": "GAGAvatar",
-            "stars": 601,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1,
             "owner": "xg-chu",
             "repo": "GPAvatar",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:31:35.307Z",
+    "last_updated": "2026-10-21T00:01:43.654Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
