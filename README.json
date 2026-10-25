@@ -19,7 +19,7 @@
             "open_issues": 98,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2796,
+            "stars": 2795,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 4033,
+            "stars": 4034,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 292,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19306,
+            "stars": 19310,
             "topics": [
               "face-animation",
               "image-animation",
@@ -790,7 +790,7 @@
             "open_issues": 48,
             "owner": "Omni-Avatar",
             "repo": "OmniAvatar",
-            "stars": 1863,
+            "stars": 1864,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -903,7 +903,7 @@
             "open_issues": 257,
             "owner": "HumanAIGC",
             "repo": "EMO",
-            "stars": 7576,
+            "stars": 7577,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -921,10 +921,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-09-26T05:44:17Z",
-            "open_issues": 175,
+            "open_issues": 177,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6789,
+            "stars": 6797,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1021,7 +1021,7 @@
             "open_issues": 84,
             "owner": "Zejun-Yang",
             "repo": "AniPortrait",
-            "stars": 5016,
+            "stars": 5017,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 22,
             "owner": "modelscope",
             "repo": "facechain",
-            "stars": 9507,
+            "stars": 9506,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 114,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8671,
+            "stars": 8672,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4323,
+            "stars": 4324,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -1116,7 +1116,7 @@
             "open_issues": 77,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4665,
+            "stars": 4664,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1185,10 +1185,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-06-20T07:36:58Z",
-            "open_issues": 227,
+            "open_issues": 228,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6188,
+            "stars": 6190,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1471,10 +1471,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-26T12:51:53Z",
-            "open_issues": 667,
+            "open_issues": 669,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14155,
+            "stars": 14159,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1610,7 +1610,7 @@
             "open_issues": 370,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13255,
+            "stars": 13256,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:32:34.392Z",
+    "last_updated": "2026-10-25T23:27:34.632Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
