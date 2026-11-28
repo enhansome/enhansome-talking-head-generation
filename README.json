@@ -19,7 +19,7 @@
             "open_issues": 98,
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2807,
+            "stars": 2808,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -155,7 +155,7 @@
             "open_issues": 35,
             "owner": "GVCLab",
             "repo": "PersonaLive",
-            "stars": 4236,
+            "stars": 4245,
             "topics": [
               "cvpr",
               "cvpr2026",
@@ -246,7 +246,7 @@
             "open_issues": 293,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19592,
+            "stars": 19601,
             "topics": [
               "face-animation",
               "image-animation",
@@ -621,7 +621,7 @@
             "open_issues": 319,
             "owner": "AliaksandrSiarohin",
             "repo": "first-order-model",
-            "stars": 14984,
+            "stars": 14983,
             "topics": [
               "deep-learning",
               "generative-model",
@@ -924,7 +924,7 @@
             "open_issues": 178,
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 7056,
+            "stars": 7059,
             "topics": [
               "lip-sync",
               "virtualhumans"
@@ -1063,7 +1063,7 @@
             "open_issues": 115,
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8678,
+            "stars": 8677,
             "topics": [
               "face-animation",
               "image-animation",
@@ -1116,7 +1116,7 @@
             "open_issues": 79,
             "owner": "antgroup",
             "repo": "echomimic_v2",
-            "stars": 4685,
+            "stars": 4684,
             "topics": [
               "audio-driven-body-animation",
               "audio-driven-portrait-animations",
@@ -1188,7 +1188,7 @@
             "open_issues": 230,
             "owner": "bytedance",
             "repo": "LatentSync",
-            "stars": 6334,
+            "stars": 6336,
             "topics": [
               "diffusion-models",
               "lipsync",
@@ -1610,7 +1610,7 @@
             "open_issues": 372,
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13291,
+            "stars": 13292,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -1961,7 +1961,7 @@
             "open_issues": 9,
             "owner": "xg-chu",
             "repo": "GAGAvatar",
-            "stars": 628,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2045,7 +2045,7 @@
             "open_issues": 133,
             "owner": "Fictionarry",
             "repo": "ER-NeRF",
-            "stars": 1266,
+            "stars": 1267,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:28.503Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:43:09.344Z",
+    "last_updated": "2026-11-28T03:26:25.771Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
